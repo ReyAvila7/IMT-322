@@ -1,6 +1,6 @@
 #include "funciones.h"
 #define BOTON 10
-#define BAUDRATE 9600
+#define BAUDRATE 9600 // se usó 9600 por uso de arduino UNO
 String msg1 = "Bienvenido";
 String msg2 = "Ingrese el dinero";
 String msg3 = "Seleccione una de las bebidas disponibles";
